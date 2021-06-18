@@ -1,3 +1,3 @@
 # GSCBAC Information System
 
-A Web Development Capstone Project
+A Web Development Capstone Project with MYSQL as a database.
